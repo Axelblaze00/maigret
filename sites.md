@@ -3071,7 +3071,7 @@ Rank data fetched from Alexa by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://scholar.google.com/) [Google Scholar (https://scholar.google.com/)](https://scholar.google.com/)*: top 100M*
 1. ![](https://www.google.com/s2/favicons?domain=https://huggingface.co/) [HuggingFace (https://huggingface.co/)](https://huggingface.co/)*: top 100M*
 1. ![](https://www.google.com/s2/favicons?domain=https://manifold.markets/) [ManifoldMarkets (https://manifold.markets/)](https://manifold.markets/)*: top 100M*
-
+1. ![](https://www.google.com/s2/favicons?domain=https://brainalyst.in/data-science-course-placement-guarantee/) {Brainalyst.in]
 The list was updated at (2022-12-17 12:30:00.619095 UTC)
 ## Statistics
 
